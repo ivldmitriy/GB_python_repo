@@ -1,5 +1,5 @@
 # игнорировать cлужебные файлы PyCharm в lesson-1
-/lesson-1/.idea
+/lesson-*/.idea
 
 # игнорировать виртуальное окружение в lesson-1
-/lesson-1/venv
+/lesson-*/venv
