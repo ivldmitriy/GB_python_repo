@@ -23,4 +23,3 @@ except ValueError:
     print('Введены не числа')
     res = 'ошибка типов'
 print(f'Результат деления: {res}')
-Ы
